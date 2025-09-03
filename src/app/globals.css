@@ -1,0 +1,23 @@
+:root {
+  --medium-gray: hsla(0, 0%, 53%, 1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(180deg, #0E1112 0%, #00090E 100%);
+  min-height: 100vh;
+}
+
+.app-container {
+  width: 1200px;
+  max-width: 90%;
+  margin: 56px auto;
+  display: flex;
+  gap: 28px;
+  height: 100vh;
+}
