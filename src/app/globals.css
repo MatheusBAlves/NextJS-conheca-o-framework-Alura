@@ -19,7 +19,7 @@ body {
   margin: 56px auto;
   display: flex;
   gap: 28px;
-  height: 100vh;
+  /* height: 100vh; */
 }
 
 .main-content {

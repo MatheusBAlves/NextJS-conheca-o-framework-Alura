@@ -1,3 +1,8 @@
+.link {
+  text-decoration: none;
+  cursor: pointer;
+}
+
 .card {
   width: 486px;
   border-radius: 8px;
